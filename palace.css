@@ -1,0 +1,109 @@
+body{
+
+    position: relative;
+    width: 1920px;
+    height: 5000px;
+
+background-color: rgb(230, 221, 211) ;
+
+}
+a{
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+}
+p{
+  font-family: Montserrat;
+font-style: normal;
+}
+.firstScreen{
+    background-color:#FFFFFF ;
+    position: absolute;
+    width: 1920px;
+    height: 865.55px;
+   
+   
+
+}
+.frameIMG1{
+  background: rgba(209, 169, 84, 0.9);
+  position: absolute;
+  width: 580px;
+  height: 166px;
+  left: 0px;
+  top: 485px;
+opacity: 0.8;
+
+}
+
+.mainPage{
+  background-color:#FFFFFF ;
+  position: absolute;
+  width: 1920px;
+  height: 5228px;
+  left: 60px;
+  top: 60px;
+}
+.firstScreenLeft{
+    background-color: #FFFFFF;
+width: 550px;
+height: 207px;
+float: left;
+
+}
+.firstScreenRight{
+    background-color: #FFFFFF;
+    width:1250px;
+    height: 207px;
+    float: right;
+}
+
+.logo
+{position: absolute;
+width: 160px;
+height: 87px;
+left: 160px;
+top: 60px;
+
+background: url(logo_big.png);}
+
+
+
+
+
+.menu-main {
+    list-style: none;
+    margin: 45px 0 5px;
+    padding: 25px 0 5px;
+    text-align: left;
+    
+  }
+  .menu-main li {display: inline-block;}
+
+ 
+  .menu-main a {
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    letter-spacing: 3px;
+    position: relative;
+    padding-bottom: 10px;
+    margin: 0 30px 0 0px;
+    font-size: 13px;
+    display: inline-block;
+  
+  }
+  .mainBatton{
+font-family: Montserrat;
+font-size: 13px;
+color: #D1A954;
+border: 2px solid #D1A954;
+padding: 10px;
+
+  }
+
+  .sofitBatton{
+    font-family: Montserrat;
+    font-size: 13px;
+    color: #D1A954;
+    padding: 13px;  /*Растояние до рамки*/
+      }

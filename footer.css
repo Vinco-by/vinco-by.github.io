@@ -1,0 +1,71 @@
+.contacts{
+    position: absolute;
+    width: 1100px;
+    height: 480px;
+    left: 460px;
+    top: 2850px;
+    background-color:#FFFFFF;
+
+
+
+}
+
+.letter{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 135%;
+ 
+    list-style: none;
+
+
+}
+.letter li{
+
+    margin-bottom: 14px;
+
+}
+input{
+   
+        display: inline-block;
+        width: 400px;
+        height: 40px;
+        box-sizing: border-box;
+        text-align: left;
+      
+        outline: none;
+        border: none;
+        border-bottom: 1px solid rgb(201, 201, 201);
+        border-radius: 0px;
+        padding: 10px 10px 10px 10px;
+        transition: all 0.1s ease-out;
+        background-color:#FFFFFF;
+        }
+        .inputMesseg{
+   
+            display: inline-block;
+            width: 400px;
+            height: 196px;
+            box-sizing: border-box;
+           
+          
+            outline: none;
+            
+            border: 1px solid lightgray;
+            border-radius: 3px;
+            padding: 10px 100px 190px 10px;
+            transition: all 0.1s ease-out;
+            }
+
+
+            .insta{
+
+                position: absolute;
+                width: 1920px;
+                height: 715px;
+                left: 0px;
+                top: 3400px;
+                background: #FFFFFF;
+
+
+
+            }
